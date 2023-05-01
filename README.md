@@ -1,2 +1,2 @@
-# SC-Audit-Roadmap
-My personal SC Audit roadmap learning
+# Smart Contract Auditor Learning Roadmap
+
