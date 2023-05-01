@@ -47,6 +47,7 @@
   - Common Issues:
      - General Issues: 
         - https://twitter.com/KKat7531/status/1643710428470452225
+        - https://github.com/FattahArrasyid/SC-Audit-Roadmap/blob/main/img01.jpg (No.8-12, 15-24)
      - High risk issues (by 0x52):
         - https://twitter.com/IAm0x52/status/1649420594855723010
 
