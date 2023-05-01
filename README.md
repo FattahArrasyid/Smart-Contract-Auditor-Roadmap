@@ -5,15 +5,63 @@
 
 ### 2) Blockchain Basics
 - [Blockchain 101 + BTC & ETH Whitepaper](https://youtube.com/playlist?list=PL5hZ7cADAJkdIVAcINQdsnfRTZZj6hjwB)
+- [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
 - [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=PL5hZ7cADAJkda2wZHQs_grzxP-JavYhHO&index=7&t=7685s) (learn just Blockchain Basics section)
 
 ## B. Main
-### 3) CTFs and Solidity (do point a-b at once)
+### 3) CTFs and Solidity (do point 1-2 at once)
 - [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=PL5hZ7cADAJkda2wZHQs_grzxP-JavYhHO&index=7&t=7685s) (learn Solidity + Hardhat section)
-- CTF:
+- CaptureTheFlags:
   - [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
   - [Ethernaut](https://ethernaut.openzeppelin.com/)
     - Youtube: [D-Squared Ethernaut Playlist](https://youtube.com/playlist?list=PLiAoBT74VLnmRIPZGg4F36fH3BjQ5fLnz)
   - [Capture The Ether](https://capturetheether.com/)
  
 ### 4) Defi & Finance Basics
+- DeFi:
+  > References: https://teachyourselfcrypto.com/ (DeFi Section)
+  - Token Contracts (Found on CTFs & FCC above)
+    - Refer to: [CMichel Guide](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+  - Proxies (Found on CTFs above)
+    - Refer to: [CMichel Guide](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+  - Masterchef 
+    - Refer to: [CMichel Guide](https://cmichel.io/how-to-become-a-smart-contract-auditor/), [Synthetix Staking Rewards Contracts on YT](https://youtube.com/playlist?list=PL6dfW2OxzxT8mnis1je1WkIfknlaKt2vj)
+  - Compound
+    - Refer to: [CMichel Guide](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+  - Uniswap V2
+    - Refer to: [CMichel Guide](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+- Finance:
+  - [Learn Options, Swaps, Futures, MBSs, CDOs, Other futures derivatives on Khan Academy](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
+
+### 5) Understanding Audits & Reports
+  - Secureum Bootcamp:
+     - Youtube: [D-Squared Secureum Bootcamp Playlist](https://youtube.com/playlist?list=PLiAoBT74VLnmK3Kc188fL37aviYjXeaPc)
+     - Text: [Secureum Mindmap](https://github.com/x676f64/secureum-mind_map)
+  - C4 past audit reports:
+     > https://code4rena.com/reports 
+  
+    Learn from:
+      - Low risk, non critical issues and gas audits
+      - High and medium risk findings (duplicate)
+      - High and medium risk findings (unique)
+  - Common Issues:
+     - General Issues: 
+        - https://twitter.com/KKat7531/status/1643710428470452225
+     - High risk issues (by 0x52):
+        - https://twitter.com/IAm0x52/status/1649420594855723010
+
+### 5.5) Foundry (Smart Contract Framework)
+  - Documentation: https://book.getfoundry.sh/
+
+### 6) Participate in contest:
+  - [C4](https://code4rena.com/) 
+  - [Sherlock](https://www.sherlock.xyz/)
+  - [ImmuneFi](https://immunefi.com/)
+
+### 7) Keep Learning
+
+## Bonus
+### Audit Tools:
+  - IDE: VsCode + audit extension ("solidity visual developer" extension)
+  - Framework: Hardhat/Foundry
+  - Notetaking & mindmap app : Notion, Miro
