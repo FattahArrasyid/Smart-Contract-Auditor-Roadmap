@@ -11,6 +11,7 @@
 ## B. Main
 ### 3) CTFs and Solidity (do point 1-2 at once)
 - [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=PL5hZ7cADAJkda2wZHQs_grzxP-JavYhHO&index=7&t=7685s) (learn Solidity + Hardhat section)
+- [Solidity to the point](https://www.rareskills.io/learn-solidity)
 - CaptureTheFlags:
   - [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
   - [Ethernaut](https://ethernaut.openzeppelin.com/)
@@ -19,7 +20,7 @@
  
 ### 4) Defi & Finance Basics
 - DeFi:
-  > References: https://teachyourselfcrypto.com/ (DeFi Section)
+  > Reference: https://teachyourselfcrypto.com/ (DeFi Section)
   - Token Contracts (Found on CTFs & FCC above)
     - Refer to: [CMichel Guide](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
   - Proxies (Found on CTFs above)
