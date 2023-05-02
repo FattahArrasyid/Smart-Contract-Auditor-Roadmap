@@ -12,6 +12,7 @@
 ### 3) CTFs and Solidity (do point 1-2 at once)
 - [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=PL5hZ7cADAJkda2wZHQs_grzxP-JavYhHO&index=7&t=7685s) (learn Solidity + Hardhat section)
 - [Solidity to the point](https://www.rareskills.io/learn-solidity)
+  - Exercise: https://github.com/rareSkills/solidity-exercises
 - CaptureTheFlags:
   - [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
   - [Ethernaut](https://ethernaut.openzeppelin.com/)
