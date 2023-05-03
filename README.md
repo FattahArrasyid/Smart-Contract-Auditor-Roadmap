@@ -1,4 +1,4 @@
-# Smart Contract Auditor Learning Roadmap Step by Step
+# Smart Contract Auditor Learning Roadmap Step by Step in 2023
 ## A. Prerequisite
 ### 1) Learn Basic Programming
 - [FreeCodeCamp JavaScript Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
@@ -6,11 +6,11 @@
 ### 2) Blockchain Basics
 - [Blockchain 101 + BTC & ETH Whitepaper](https://youtube.com/playlist?list=PL5hZ7cADAJkdIVAcINQdsnfRTZZj6hjwB)
 - [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
-- [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=PL5hZ7cADAJkda2wZHQs_grzxP-JavYhHO&index=7&t=7685s) (learn just Blockchain Basics section)
+- [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://youtu.be/gyMwXuJrbJQ) (learn just Blockchain Basics section)
 
 ## B. Main
 ### 3) CTFs and Solidity (do all points at once)
-- [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=PL5hZ7cADAJkda2wZHQs_grzxP-JavYhHO&index=7&t=7685s) (learn Solidity + Hardhat section)
+- [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://youtu.be/gyMwXuJrbJQ) (learn Solidity + Hardhat section)
 - [Solidity to the point](https://www.rareskills.io/learn-solidity)
   - Exercise: https://github.com/rareSkills/solidity-exercises 
 - [Foundry](https://book.getfoundry.sh/)
@@ -70,5 +70,8 @@
 ### Audit Tools:
   - IDE: VsCode + audit extension ("solidity visual developer" extension)
   - Framework: Hardhat/Foundry
-  - Notetaking & mindmap app : Notion, Miro
-Ion
+  - Notetaking app: Notion
+
+### Audit Process:
+  - [Tincho (Damn Vulnerable Defi CTF creator) audit process](https://youtu.be/A-T9F0anN1E)
+  - [Patrick Collins audit process](https://youtu.be/TmZ8gH-toX0)
