@@ -9,11 +9,12 @@
 - [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=PL5hZ7cADAJkda2wZHQs_grzxP-JavYhHO&index=7&t=7685s) (learn just Blockchain Basics section)
 
 ## B. Main
-### 3) CTFs and Solidity (do point 1-2 at once)
+### 3) CTFs and Solidity (do all points at once)
 - [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=PL5hZ7cADAJkda2wZHQs_grzxP-JavYhHO&index=7&t=7685s) (learn Solidity + Hardhat section)
 - [Solidity to the point](https://www.rareskills.io/learn-solidity)
-  - Exercise: https://github.com/rareSkills/solidity-exercises
-- CaptureTheFlags:
+  - Exercise: https://github.com/rareSkills/solidity-exercises 
+- [Foundry](https://book.getfoundry.sh/)
+- CTFs:
   - [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
   - [Ethernaut](https://ethernaut.openzeppelin.com/)
     - Youtube: [D-Squared Ethernaut Playlist](https://youtube.com/playlist?list=PLiAoBT74VLnmRIPZGg4F36fH3BjQ5fLnz)
@@ -49,14 +50,14 @@
       - High and medium risk findings (duplicate)
       - High and medium risk findings (unique)
   - Common Issues:
+    > Reference: https://consensys.github.io/smart-contract-best-practices/attacks/
+    
      - General Issues: 
         - https://twitter.com/KKat7531/status/1643710428470452225
         - https://github.com/FattahArrasyid/SC-Audit-Roadmap/blob/main/img01.jpg (No.8-12, 15-24)
      - High risk issues (by 0x52):
         - https://twitter.com/IAm0x52/status/1649420594855723010
 
-### 5.5) Foundry (Smart Contract Framework)
-  - Documentation: https://book.getfoundry.sh/
 
 ### 6) Participate in contest:
   - [C4](https://code4rena.com/) 
@@ -70,3 +71,4 @@
   - IDE: VsCode + audit extension ("solidity visual developer" extension)
   - Framework: Hardhat/Foundry
   - Notetaking & mindmap app : Notion, Miro
+Ion
