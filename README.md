@@ -39,10 +39,12 @@
   - Secureum Bootcamp:
      - Youtube: [D-Squared Secureum Bootcamp Playlist](https://youtube.com/playlist?list=PLiAoBT74VLnmK3Kc188fL37aviYjXeaPc)
      - Text: [Secureum Mindmap](https://github.com/x676f64/secureum-mind_map)
-  - C4 past audit reports:
-     > https://code4rena.com/reports 
+  - Past audit reports:
+      - [C4](https://code4rena.com/reports)
+      - [Solodit](https://solodit.xyz/)
+      - [Sherlock](https://app.sherlock.xyz/audits/contests) (Finished section)
   
-    Learn from:
+    Learn based on priority, from:
       - Low risk, non critical issues and gas audits
       - High and medium risk findings (duplicate)
       - High and medium risk findings (unique)
