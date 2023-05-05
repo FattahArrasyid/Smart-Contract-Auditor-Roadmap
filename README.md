@@ -1,5 +1,5 @@
 # Smart Contract Auditor Learning Roadmap Step by Step in 2023
-## A. Prerequisite
+## A. Prerequisites
 ### 1) Learn Basic Programming
 - [FreeCodeCamp JavaScript Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 
