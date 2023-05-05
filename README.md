@@ -14,7 +14,9 @@
 - [Solidity to the point](https://www.rareskills.io/learn-solidity)
   - Exercise: https://github.com/rareSkills/solidity-exercises
 - [Solidity by example](https://solidity-by-example.org/)
-- [Foundry](https://book.getfoundry.sh/)
+- Foundry
+  - https://book.getfoundry.sh/
+  - https://youtube.com/playlist?list=PLO5VPQH6OWdUrKEWPF07CSuVm3T99DQki
 - CTFs:
   - [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/)
   - [Ethernaut](https://ethernaut.openzeppelin.com/)
