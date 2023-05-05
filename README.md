@@ -76,3 +76,4 @@
 ### Audit Process:
   - [Tincho (Damn Vulnerable Defi CTF creator) audit process](https://youtu.be/A-T9F0anN1E)
   - [Patrick Collins audit process](https://youtu.be/TmZ8gH-toX0)
+  - https://twitter.com/cryptostaker22/status/1653856172611612673
