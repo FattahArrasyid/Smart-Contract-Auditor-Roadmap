@@ -75,9 +75,18 @@
   - Framework: Hardhat/Foundry (Smart Contract Framework)
   - Notetaking app: Notion (Mostly to get CLOC of the codebase, and sort it by the amount of CLOC)
 
+
+### Youtube Channels to learn auditing (personal fav):
+  - [Patrick Collins](https://www.youtube.com/@PatrickAlphaC)
+  - [Andy Li](https://www.youtube.com/@andyli)
+  - [Owen Thurm](https://www.youtube.com/@0xOwenThurm)
+  - [Smart Contract Programmer](https://www.youtube.com/@smartcontractprogrammer)
+
+
 ### Audit Process:
   - [Tincho (Damn Vulnerable Defi CTF creator) audit process](https://youtu.be/A-T9F0anN1E)
   - [Patrick Collins audit process](https://youtu.be/TmZ8gH-toX0)
+
 
 ### Another Audit Learning Core Points: 
   - https://twitter.com/cryptostaker22/status/1653856172611612673
