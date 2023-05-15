@@ -72,7 +72,7 @@
 ## Bonus
 ### My Personal Audit Tools:
   - IDE: VsCode + audit extension ("solidity visual developer" extension)
-  - Framework: Hardhat/Foundry (Smart Contract Framework
+  - Framework: Hardhat/Foundry (Smart Contract Framework)
   - Notetaking app: Notion (Mostly to get CLOC of the codebase, and sort it by the amount of CLOC)
 
 ### Audit Process:
