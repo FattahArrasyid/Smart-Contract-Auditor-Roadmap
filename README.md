@@ -9,7 +9,7 @@
 - [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://youtu.be/gyMwXuJrbJQ) (learn just Blockchain Basics section)
 
 ## B. Main
-### 3) CTFs and Solidity (do all points at once)
+### 3) CTFs and Solidity (recommend to do theory+practice at once)
 - [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://youtu.be/gyMwXuJrbJQ) (learn Solidity + Hardhat section)
 - [Solidity to the point](https://www.rareskills.io/learn-solidity)
   - Exercise: https://github.com/rareSkills/solidity-exercises
@@ -26,7 +26,7 @@
 ### 4) Defi & Finance Basics
 - DeFi:
   > Reference: https://teachyourselfcrypto.com/ (DeFi Section)
-  - Token Contracts (Found on CTFs & FCC above)
+  - Token Contracts (Found on CTFs & Patrick Collins 32-Hours course video above)
     - Refer to: [CMichel Guide](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
   - Proxies (Found on CTFs above)
     - Refer to: [CMichel Guide](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
@@ -46,7 +46,7 @@
   - Past audit reports:
       - [C4](https://code4rena.com/reports)
       - [Solodit](https://solodit.xyz/)
-      - [Sherlock](https://app.sherlock.xyz/audits/contests) (Finished section)
+      - [Sherlock](https://app.sherlock.xyz/audits/contests) ("finished" section)
   
     Learn based on priority, from:
       - Low risk, non critical issues and gas audits
@@ -70,14 +70,14 @@
 ### 7) Keep Learning
 
 ## Bonus
-### Audit Tools:
+### My Personal Audit Tools:
   - IDE: VsCode + audit extension ("solidity visual developer" extension)
-  - Framework: Hardhat/Foundry
-  - Notetaking app: Notion
+  - Framework: Hardhat/Foundry (Smart Contract Framework
+  - Notetaking app: Notion (Mostly to get CLOC of the codebase, and sort it by the amount of CLOC)
 
 ### Audit Process:
   - [Tincho (Damn Vulnerable Defi CTF creator) audit process](https://youtu.be/A-T9F0anN1E)
   - [Patrick Collins audit process](https://youtu.be/TmZ8gH-toX0)
 
-### Audit Learning  
+### Another Audit Learning Core Points: 
   - https://twitter.com/cryptostaker22/status/1653856172611612673
