@@ -24,6 +24,9 @@
   - [Ethernaut](https://ethernaut.openzeppelin.com/)
     - Youtube: [D-Squared Ethernaut Playlist](https://youtube.com/playlist?list=PLiAoBT74VLnmRIPZGg4F36fH3BjQ5fLnz)
   - [Capture The Ether](https://capturetheether.com/)
+- Secureum Bootcamp:
+  - Youtube: [D-Squared Secureum Bootcamp Playlist](https://youtube.com/playlist?list=PLiAoBT74VLnmK3Kc188fL37aviYjXeaPc)
+  - Text: [Secureum Mindmap](https://github.com/x676f64/secureum-mind_map)
  
 ### 4) Defi & Finance Basics
 - DeFi:
@@ -42,18 +45,12 @@
   - [Learn Options, Swaps, Futures, MBSs, CDOs, Other futures derivatives on Khan Academy](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
 
 ### 5) Understanding Audits & Reports
-  - Secureum Bootcamp:
-     - Youtube: [D-Squared Secureum Bootcamp Playlist](https://youtube.com/playlist?list=PLiAoBT74VLnmK3Kc188fL37aviYjXeaPc)
-     - Text: [Secureum Mindmap](https://github.com/x676f64/secureum-mind_map)
-  - Past audit reports:
-      - [C4](https://code4rena.com/reports)
-      - [Solodit](https://solodit.xyz/)
-      - [Sherlock](https://app.sherlock.xyz/audits/contests) ("finished" section)
+  - Past audit reports: [C4](https://code4rena.com/reports), [Solodit](https://solodit.xyz/), [Sherlock](https://app.sherlock.xyz/audits/contests) ("finished" section)
   
-    Learn based on priority, from:
-      - Low risk, non critical issues and gas audits
-      - High and medium risk findings (duplicate)
-      - High and medium risk findings (unique)
+      - Learn based on priority, from:
+        - Low risk, non critical issues and gas audits
+        - High and medium risk findings (duplicate)
+        - High and medium risk findings (unique)
   - Common Issues:
     > Reference 1: https://consensys.github.io/smart-contract-best-practices/attacks/
      
