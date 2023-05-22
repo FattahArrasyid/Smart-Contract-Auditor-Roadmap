@@ -31,6 +31,8 @@
 ### 4) Defi & Finance Basics
 - DeFi:
   > Reference: https://teachyourselfcrypto.com/ (DeFi Section)
+  > 
+  > ["The Defi Bible"]()
   - Token Contracts (Found on CTFs & Patrick Collins 32-Hours course video above)
     - Refer to: [CMichel Guide](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
   - Proxies (Found on CTFs above)
@@ -52,9 +54,9 @@
         - High and medium risk findings (duplicate)
         - High and medium risk findings (unique)
   - Common Issues:
-    > Reference 1: https://consensys.github.io/smart-contract-best-practices/attacks/
+    > References: https://consensys.github.io/smart-contract-best-practices/attacks/
      
-    > Reference 2: https://swcregistry.io/
+    > https://swcregistry.io/
     
      - General Issues: 
         - https://twitter.com/KKat7531/status/1643710428470452225
