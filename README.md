@@ -30,9 +30,9 @@
  
 ### 4) Defi & Finance Basics
 - DeFi:
-  > Reference: https://teachyourselfcrypto.com/ (DeFi Section)
+  > References: https://teachyourselfcrypto.com/ (DeFi Section)
   > 
-  > ["The Defi Bible"]()
+  > ["The Defi Bible"](https://github.com/OffcierCia/ultimate-defi-research-base)
   - Token Contracts (Found on CTFs & Patrick Collins 32-Hours course video above)
     - Refer to: [CMichel Guide](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
   - Proxies (Found on CTFs above)
